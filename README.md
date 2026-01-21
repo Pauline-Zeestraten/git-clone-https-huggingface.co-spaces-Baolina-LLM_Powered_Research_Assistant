@@ -1,0 +1,17 @@
+metadata
+title: LLM Powered Research Assistant
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: streamlit
+app_port: 8501
+tags:
+  - streamlit
+pinned: false
+short_description: Streamlit template space
+
+Welcome to Streamlit!
+
+Edit /src/streamlit_app.py to customize this app to your heart's desire. :heart:
+
+If you have any questions, checkout our documentation and community forums.
