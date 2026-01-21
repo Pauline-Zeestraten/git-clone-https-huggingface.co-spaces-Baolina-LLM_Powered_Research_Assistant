@@ -1,17 +1,7 @@
-metadata
-title: LLM Powered Research Assistant
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: streamlit
-app_port: 8501
-tags:
-  - streamlit
-pinned: false
-short_description: Streamlit template space
+This case study demonstrates how Natural Language Processing (NLP) can support research teams in efficiently querying large scientific documents using Retrieval-Augmented Generation (RAG).
+Specifically, the system aims to:
+Answer user questions by retrieving relevant content from long research papers.
+Support natural-language queries without requiring users to read the entire document.
+Simulate an intelligent assistant that simplifies literature review workflows.
 
-Welcome to Streamlit!
-
-Edit /src/streamlit_app.py to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our documentation and community forums.
+This project focuses on building a small part of that broader solution, a system where users upload lengthy research PDFs, and the model provides grounded, relevant answers using RAG. This enables researchers to extract targeted information faster and make informed decisions more quickly.
